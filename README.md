@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @hamzajavediqbal
+- 👋 Hi, I’m Hamza Javed
 - 👀 I’m interested in Cloud/DevOps
 - 🌱 I’m currently learning Container orchestration
-- 💞️ I’m looking to collaborate on Cybersecurity projects 
+- 💞️ I’m looking to collaborate on Cloud/DevOps projects 
 - 📫 How to reach me LinkedIn: https://www.linkedin.com/in/hamzajaved1996/
 
 <!---
